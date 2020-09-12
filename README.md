@@ -5,6 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 `flutter pub get`
+
 `flutter packages pub run build_runner build`
 
 A few resources to get you started if this is your first Flutter project:
